@@ -2,22 +2,10 @@
 	"title"		:	"Spacebuild 3 Collider Models",
 	"type"		:	"gamemode",
 	"tags"		:	[ "build", "fun" ],
-	"description":	"Garry's Mod Spacebuild Project",
+	"description":	"Garry's Mod Spacebuild 3 Planet Colliders",
 	"ignore"	:
 	[
-		"*.psd",
-		"*.vcproj",
-		"*.svn*",
-		"*.txt",
 		".git*",
-		"docs/*",
-		"spacebuild.iml",
-		"spacebuild.ipr",
-		"LICENSE",
-		"NOTICE",
-		"*.md",
-		"*.gma",
-		"*.jpg",
 		"*.py",
 		"*.blend",
 		"*.blend1"
