@@ -8,6 +8,8 @@
 		".git*",
 		"*.py",
 		"*.blend",
-		"*.blend1"
+		"*.blend1",
+                "*.bat",
+                "*.jpg"
 	]
 }
